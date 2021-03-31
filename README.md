@@ -3,4 +3,4 @@ hello-world repository
 
 Hello fellow Meatbags
 
-This bit about myself attempting to GitHub my way into programming upcoming keyboard build. 
+This bit about myself attempting to GitHub my way into programming an upcoming keyboard build. 
